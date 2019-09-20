@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://crazymaza.github.io/rsschool-cv/cv
+[First Task "Markdown & Git"](https://crazymaza.github.io/rsschool-cv/cv)
